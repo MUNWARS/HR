@@ -1,4 +1,4 @@
-# HR Questions
+# HR QUESTIONS
 
 This repository provides sample answers to common HR questions that candidates might encounter during job interviews. These responses are designed to serve as examples and starting points for individuals preparing for interviews. Feel free to adapt and customize the answers based on your own experiences and preferences.
 
@@ -19,10 +19,6 @@ This repository provides sample answers to common HR questions that candidates m
 
 ## Question 6: Tell me about something not mentioned in your resume?
 **Sample Answer:** Outside of my professional experience, I am passionate about contributing to the community. I have been actively involved in volunteering initiatives, such as organizing coding workshops for local schools to promote STEM education.
-
-# HR Questions
-
-This repository provides sample answers to common HR questions that candidates might encounter during job interviews. These responses are designed to serve as examples and starting points for individuals preparing for interviews. Feel free to adapt and customize the answers based on your own experiences and preferences.
 
 ## What are hobbies and interests?
 
@@ -56,10 +52,6 @@ This repository provides sample answers to common HR questions that candidates m
 
 **Sample Answer:** Societe Generale's reputation for innovation and commitment to fostering a collaborative and challenging work environment aligns with my career aspirations. I am particularly drawn to the opportunity to work on impactful projects and contribute to the company's success.
 
-# Societe Generale Interview Questions
-
-This section provides sample answers to specific questions that might be asked during an interview with Societe Generale.
-
 ## What do you know about Societe Generale?
 
 **Sample Answer:** Societe Generale is a leading financial services company with a global presence. The company is committed to innovation, sustainability, and fostering a diverse and inclusive workplace. I appreciate Societe Generale's emphasis on technological advancements and its significant contributions to the financial industry.
@@ -83,11 +75,6 @@ This section provides sample answers to specific questions that might be asked d
 ## Tell me about a time when you had to work to accomplish a goal.
 
 **Sample Answer:** In my previous internship, our team faced a tight deadline to deliver a crucial software module. Through effective communication, collaboration, and a well-organized plan, we successfully met the deadline. This experience reinforced the importance of teamwork and adaptability in achieving common goals.
-
-
-# Societe Generale Software Engineer Interview Questions
-
-This section provides sample answers to specific questions that might be asked during a Societe Generale software engineer interview.
 
 ## What excites you about the prospect of working at Societe Generale as a software engineer?
 
@@ -136,12 +123,6 @@ This section provides sample answers to specific questions that might be asked d
 ## Tell me about your time management skills?
 
 **Sample Answer:** I prioritize tasks based on urgency and importance, use project management tools to stay organized, and set realistic deadlines. Regularly reassessing priorities and staying adaptable in a dynamic work environment contribute to my effective time management.
-
-
-
-# Societe Generale Software Engineer Interview Questions
-
-This section provides sample answers to specific questions that might be asked during a Societe Generale software engineer interview.
 
 ## How do you deal with feedback and criticism?
 
