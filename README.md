@@ -1,7 +1,7 @@
 # HR
 
-## How do you manage stress?
-Sample Answer: I manage stress through effective time management, prioritization of tasks, and breaking down larger tasks into smaller, more manageable ones. Additionally, I find that taking short breaks, practicing mindfulness, and maintaining a healthy work-life balance contribute to my stress management.
+-- How do you manage stress?
+- Sample Answer: I manage stress through effective time management, prioritization of tasks, and breaking down larger tasks into smaller, more manageable ones. Additionally, I find that taking short breaks, practicing mindfulness, and maintaining a healthy work-life balance contribute to my stress management.
 
 Where do you see yourself in the next 5 years?
 Sample Answer: In the next 5 years, I envision myself as a seasoned software engineer, having gained expertise in cutting-edge technologies. I aspire to take on more leadership responsibilities and contribute significantly to the success and innovation of the projects I'm involved in.
