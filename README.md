@@ -1,6 +1,6 @@
 # HR
 
-How do you manage stress?
+## How do you manage stress?
 Sample Answer: I manage stress through effective time management, prioritization of tasks, and breaking down larger tasks into smaller, more manageable ones. Additionally, I find that taking short breaks, practicing mindfulness, and maintaining a healthy work-life balance contribute to my stress management.
 
 Where do you see yourself in the next 5 years?
